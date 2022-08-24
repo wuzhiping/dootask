@@ -1,5 +1,7 @@
 # Install (Docker)
-
+<pre style="color:red;">
+find . -type f -name "*.*" | xargs  grep -Hn --color=auto "客户端下载" | more
+</pre>
 English | **[中文文档](./README_CN.md)**
 
 - [Screenshot Preview](README_PREVIEW.md)
